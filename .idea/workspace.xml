@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e311435-501d-4c51-bcf3-db6e1b67f13b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1oFdh1vfehbYFLqdVQNC1xYASmi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-boot" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.cursan.homeshop.web" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BillServletTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Homeshop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cursan.homeshop.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cursan.homeshop.web" />
+      <option name="MAIN_CLASS_NAME" value="com.cursan.homeshop.web.BillServletTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BillServletTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e311435-501d-4c51-bcf3-db6e1b67f13b" name="Default Changelist" comment="" />
+      <created>1612886387484</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612886387484</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="796" y="249" key="#com.intellij.ide.util.MemberChooser" timestamp="1613127143569">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="796" y="249" key="#com.intellij.ide.util.MemberChooser/62.0.1858.1080/-1920.10.1920.1040@62.0.1858.1080" timestamp="1613127143569" />
+    <state x="816" y="305" key="FileChooserDialogImpl" timestamp="1613052010714">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="-1141" y="304" key="FileChooserDialogImpl/62.0.1858.1080/-1920.10.1920.1040@-1920.10.1920.1040" timestamp="1613035500932" />
+    <state x="816" y="305" key="FileChooserDialogImpl/62.0.1858.1080/-1920.10.1920.1040@62.0.1858.1080" timestamp="1613052010714" />
+    <state x="-1148" y="289" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1612965375855">
+      <screen x="-1920" y="10" width="1920" height="1040" />
+    </state>
+    <state x="-1148" y="289" key="com.intellij.testIntegration.createTest.CreateTestDialog/62.0.1858.1080/-1920.10.1920.1040@-1920.10.1920.1040" timestamp="1612965375855" />
+    <state x="-1538" y="250" key="new project wizard" timestamp="1613035426734">
+      <screen x="-1920" y="10" width="1920" height="1040" />
+    </state>
+    <state x="-1538" y="250" key="new project wizard/62.0.1858.1080/-1920.10.1920.1040@-1920.10.1920.1040" timestamp="1613035426734" />
+  </component>
+</project>
